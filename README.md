@@ -45,7 +45,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&lines=Hi+there!+I'm+Miles+👋;Welcome+to+my+GitHub+Profile!;Happy+to+see+you+here!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&lines=Hi+there!+I'm+Miles+🥊🥊;Welcome+to+my+GitHub+Profile!;Happy+to+see+you+here!" alt="Typing SVG" />
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=miles-li-0828&show_icons=true&locale=en&layout=compact&langs_count=8" alt="miles-li-0828" /></p>
@@ -59,8 +59,6 @@
     <img src="https://raw.githubusercontent.com/praveenscience/praveenscience/master/dino.gif" alt="Dino Game" width="50%" height="50%">
   </a>
 </p>
-
-![Miles' github activity graph](https://activity-graph.herokuapp.com/graph?username=miles-li-0828&theme=dracula)
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
