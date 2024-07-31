@@ -9,9 +9,9 @@
 - 🌱 I’m currently learning **Cybersecurity and Advanced Algorithms**
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 🤔 I’m looking for help with **Deep Learning and AI**
-- 💬 Ask me about **Java, Python, and Web Development**
-- 📫 How to reach me: **your.email@example.com**
-- ⚡ Fun fact: **I love playing Samba music!**
+- 💬 Ask me about **Java, Python, C, Database System, Fundamental Software Design and Fundamental Algorithms Design**
+- 📫 How to reach me: **liyueming828@gmail.com**
+- ⚡ Fun fact: **I love playing kick boxing!!🥊**
 
 ---
 
