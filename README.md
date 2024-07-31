@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Miles 👋</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&color=blueviolet" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=miles-li-0828&color=blueviolet" alt="Profile views"/>
 </p>
 
 <h3 align="center">A passionate developer studying in University of Melbourne, Australia.<br>Comes from China</h3>
@@ -11,7 +11,7 @@
 - 🤔 I’m looking for help with **Deep Learning and AI**
 - 💬 Ask me about **Java, Python, C, Database System, Machine Learning, Fundamental Software Design and Fundamental Algorithms Design**
 - 📫 How to reach me: **liyueming828@gmail.com**
-- ⚡ Fun fact: **I love playing kick boxing!!🥊**
+- ⚡ Fun fact: **My favourate anime is ONEPIECE!!!**
 
 ---
 
